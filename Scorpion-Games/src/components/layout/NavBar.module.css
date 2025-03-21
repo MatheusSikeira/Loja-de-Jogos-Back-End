@@ -1,0 +1,52 @@
+.navbar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        background: linear-gradient(10deg, #fffb00, #ffc400);
+        padding: 1em;
+        height: 100px;
+        z-index: 1000;
+    }
+.list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.item{
+    margin-right: 2em;
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    border-radius: 10px; 
+}
+
+.logo{
+    width: 200px;
+    height: 120px;
+}
+.scorpion{
+    width: 230px;
+    height: 115px;
+}
+.logo{
+    width: 230px;
+    height: 115px;
+    align-self: center;
+    margin-right: 400px;
+}
+.subzero{
+    width: 230px;
+    height: 115px;
+}
