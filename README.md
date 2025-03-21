@@ -2,7 +2,7 @@
 
 ![Banner do Projeto](./Scorpion-Games/src/assets/ScorpionGames.png)
 
-Um projeto feito em React com integrações com API's e Banco de Dados.
+Um projeto feito em React com Banco de Dados SQL.
 
 ## Sumário
 
@@ -17,8 +17,10 @@ Um site para venda e compra de jogos onde o vendedor pode fazer o cadastro e lis
 
 ## Funcionalidades
 
-- Funcionalidade 1: Um formulário de cadastro para o jogo.
-![Foto do Formulário](./Scorpion-Games/src/assets/scre2.png)
+- Funcionalidade 1: Tela de login com armazenamento de dados em JSON.
+![Foto do Formulário](./Scorpion-Games/src/assets/screen1.png)
+- Funcionalidade 2: Tela de cadastro com armazenamento de dados em JSON.
+![Foto do Formulário](./Scorpion-Games/src/assets/scree2.png)
 
 ## Funcionalidades em desevolvimento
 - Funcionalidade 1: Página para comprar jogos.
