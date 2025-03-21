@@ -1,6 +1,6 @@
 ### Site da Loja de Jogos Scorpion Games
 
-![Banner do Projeto](./Loja-de-Jogos-Front-End/Scorpion-Games/src/assets/ScorpionGames.png)
+![Banner do Projeto](./Scorpion-Games/src/assets/ScorpionGames.png)
 
 Um projeto feito em React com integrações com API's e Banco de Dados.
 
