@@ -13,14 +13,14 @@ Um projeto feito em React com Banco de Dados SQL.
 ## Introdução
 
 Um site para venda e compra de jogos onde o vendedor pode fazer o cadastro e listagem dos seus jogos, e o comprador pode encontrar os itens cadastrados na loja, além disso os usuários podem fazer criticas e enviar fotos das suas gameplays ou conteúdo relacionado ao jogo.
-![Foto do Site](./Loja-de-Jogos-Front-End/Scorpion-Games/src/assets/scre1.png)
+![Foto do Site](./Loja-de-Jogos-Front-End/Scorpion-Games/src/assets/)
 
 ## Funcionalidades
 
 - Funcionalidade 1: Tela de login com armazenamento de dados em JSON.
-![Foto do Formulário](./Scorpion-Games/src/assets/screen1.png)
+![Foto do Formulário](./Scorpion-Games/src/assets/screen1.PNG)
 - Funcionalidade 2: Tela de cadastro com armazenamento de dados em JSON.
-![Foto do Formulário](./Scorpion-Games/src/assets/scree2.png)
+![Foto do Formulário](./Scorpion-Games/src/assets/scree2.PNG)
 
 ## Funcionalidades em desevolvimento
 - Funcionalidade 1: Página para comprar jogos.
